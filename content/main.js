@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Richard Korn, and I create",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
@@ -17,27 +17,30 @@ export const attributes = {
       { text: 'fast websites.' },
       { text: 'beautiful logos.' },
       { text: 'great experiences.' },
+      { text: 'all your base...' },
+      { text: 'are belong to us.' },
+      { text: 'send foods.' },
     ],
   },
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'harmonically headless functionally formless crazy chicken  \n',
   },
   features: [
     {
       icon: 'monitor-screenshot',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'fäncy buttons.\n',
       title: 'UI/UX',
     },
     {
       icon: 'draw',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'fäncy squiggles.\n',
       title: 'Logo Design',
     },
     {
       icon: 'xml',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'fäncy lines.\n',
       title: 'Web Development',
     },
   ],
@@ -82,5 +85,5 @@ export const attributes = {
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© Henlo Fren' },
 };
