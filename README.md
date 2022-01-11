@@ -25,7 +25,7 @@ This project is a template, only the README.md and index.js files have been modi
 
 ### Where:
 
-This repo can either be manually downloaded into a project file of choice, or `[ will add instructions here later ]`
+This repo can either be manually downloaded into a project file of choice, or cloned using `gh repo clone richokorn/portfolio`
 
 ### When:
 
